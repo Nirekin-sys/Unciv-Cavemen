@@ -13,8 +13,6 @@
                 "uniques": ["Can move after attacking"],
 		"attackSound": "nonmetalhit"
 	}
-],
-[
 	{
                 "name": "Clubber",
 		"unitType": "Melee",
