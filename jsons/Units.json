@@ -3,28 +3,28 @@
                 "name": "Savage",
 		"unitType": "Melee",
                 "uniqueTo": "Neanderthals",
-		"replaces": "Warrior",
-		"movement": 2,
+		"replaces": "Scout",
+		"movement": 3,
 		"strength": 8,
 		"cost": 30,
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-                "uniques": ["Can move after attacking"],
+                "uniques": ["Bonus as Attacker [25]%"],
 		"attackSound": "nonmetalhit"
 	}
 	{
                 "name": "Clubber",
 		"unitType": "Melee",
                 "uniqueTo": "Neanderthals",
-		"replaces": "Worker",
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 13,
 		"cost": 40,
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-                "uniques": ["Bonus as Attacker [25]%"],
+                "uniques": ["Bonus as Attacker [75]%"],
 		"attackSound": "nonmetalhit"
 	}
 ]
