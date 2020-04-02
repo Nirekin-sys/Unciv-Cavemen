@@ -15,6 +15,7 @@
 		"tradeRequest": "Grug like to exchange shiny things...",
 		"outerColor": [85,60,43],
 		"innerColor": [0,0,0],
+		"unique":"MONUMENT_BUILDERS",
 		"cities": ["Great Cavehome","Lagina","Dafega","Zido","Gibal","Sagal","Nander","Har","Lamuzta","Laka",
 			"Gapi","Piki","Kabara","Tabon","Zandar","Tadik","Um Baga","Tagaz","Bagada","Gugar",
 			"Grug","Ragag","Zuur","Dada","Wadar","Ulaga","Gagor","Harana","Alotro","Wololo","Oggy","Kara",
