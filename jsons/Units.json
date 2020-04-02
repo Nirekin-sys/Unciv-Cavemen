@@ -1,7 +1,8 @@
-{
-"name": "Savage",
+[
+	{
+                "name": "Savage",
 		"unitType": "Melee",
-    "uniqueTo": "Neanderthals",
+                "uniqueTo": "Neanderthals",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
@@ -9,13 +10,15 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-    "uniques": ["Can move after attacking"],
+                "uniques": ["Can move after attacking"],
 		"attackSound": "nonmetalhit"
-},
-{
-"name": "Clubber",
+	}
+],
+[
+	{
+                "name": "Clubber",
 		"unitType": "Melee",
-    "uniqueTo": "Neanderthals",
+                "uniqueTo": "Neanderthals",
 		"replaces": "Worker",
 		"movement": 2,
 		"strength": 13,
@@ -23,6 +26,7 @@
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Metal Casting",
 		"upgradesTo": "Swordsman",
-    "uniques": ["Bonus as Attacker [25]%"],
+                "uniques": ["Bonus as Attacker [25]%"],
 		"attackSound": "nonmetalhit"
-}
+	}
+]
