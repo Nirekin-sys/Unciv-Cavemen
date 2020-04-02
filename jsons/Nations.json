@@ -1,29 +1,38 @@
 [
 
 	{
-		"name": "Neanderthals",
-		"leaderName": "Chieftain Grug",
-		"adjective": ["Neanderthaler"],
+		"name":"Neanderthals",
+		"leaderName":"Chieftain Grug",
+		"adjective":["Neanderthaler"],
 		"startBias":["Avoid Desert"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType":"Domination",
 		
-		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
-		"startIntroPart2": "Legendary damiyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
+		"startIntroPart1": "Oh ye who remakes the world, your loyal subjects greet you, King Pachacuti Sapa Inca, ruler of Tawantinsuyu and the Inca people! From the beginnings in the small state of Cusco, the Incans displayed their potential for greatness, marching to war against their many enemies, crushing their armies into dust and carving for themselves a mighty empire stretching from Ecuador to Chile. Indeed, they build the greatest empire ever seen in all pre-Columbian Americas. More than mere soldiers, your people were great builders and artists as well, and the remnants of their works still awe and inspire the world today.",
+		"startIntroPart2": "Oh King Pachacuti, truly are you called 'Earth Shaker'! Will you once again call upon the ground itself to a fight at your side? Your armies await your signal. Will you restore the glory of your empire? Can you build a civilization that will stand the test of time?",
 		
-		"declaringWar": "Grug no like you, Grug tribe will take your fire, your tools and your women!",
-		"attacked": "Not-Grug only bring ruin to Not-Grug Tribe, Chief Grug make sure...",
-		"defeated": "Grug has nothing to say to you, Not-Grug who extinguished Grug fire...",
-		"introduction": "Hah! Strange-Grug! Do not bring harm to my tribe!",
+		"declaringWar":"Grug no like you, Grug tribe will take your fire, your tools and your women!",
+		"attacked":"Not-Grug only bring ruin to Not-Grug Tribe, Chief Grug make sure...",
+		"defeated":"Grug has nothing to say to you, Not-Grug who extinguished Grug fire...",
+		"introduction":"Hah! Strange-Grug! Do not bring harm to my tribe!",
 		
-		"neutralHello": "Not-Grug what need?",
-		"hateHello": "Evil Grug stay away from Chief Grug tribe!",
+		"neutralHello":"Not-Grug what need?",
+		"neutralLetsHearIt":["Go on.","What do you say?","Go ahead."],
+		"neutralNo":["I must kindly refuse.","Such offer is too disadvantageous.","I refuse."],
+		"neutralYes":["Very good.","Of course, yes.","You lay agreeable terms."],
+
+		"hateHello":"Evil-Grug stay away from Chief Grug tribe!",
+		"hateLetsHearIt":["Torture my ears.","What do you bring to us now other than malice?","Go on."],
+		"hateNo":["Absolutely not!","A deal no less agreeable than one made by the devil.","Is it the tropical heat? Have you gone mad?"],
+		"hateYes":["This will do.","Atleast your pragmatics exceed your dullness.","I'll see into it."],
 		
-		"tradeRequest": "Grug like to exchange shiny things...",
-		
-		"outerColor": [85,60,43],
-		"innerColor": [0,0,0],
+		"afterPeace":"Grug and Not-So-Evil-Grug can now rest in their Cave Homes.",
+		"tradeRequest":"Grug like to exchange shiny things...",
+				
+		"outerColor":[85,60,43],
+		"innerColor":[0, 0, 0],
+		"uniqueName":"Predecessors of Man",
 		"unique":"MONUMENT_BUILDERS",
-		"cities": ["Great Cavehome","Lagina","Dafega","Zido","Gibal","Sagal","Nander","Har","Lamuzta","Laka",
+		"cities":["Great Cavehome","Lagina","Dafega","Zido","Gibal","Sagal","Nander","Har","Lamuzta","Laka",
 			"Gapi","Piki","Kabara","Tabon","Zandar","Tadik","Um Baga","Tagaz","Bagada","Gugar",
 			"Grug","Ragag","Zuur","Dada","Wadar","Ulaga","Gagor","Harana","Alotro","Wololo","Oggy","Kara",
 			"Polgo","Kagag","Lah","Tagina","Ruma","Radar","Gamuklag","Zada"]
