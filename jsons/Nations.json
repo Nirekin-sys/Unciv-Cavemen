@@ -1,0 +1,22 @@
+{
+		"name": "Neanderthals",
+		"leaderName": "Chieftain Grug",
+		"adjective": ["Neanderthaler"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Blessings upon you, noble Oda Nobunaga, ruler of Japan, the land of the Rising Sun! May you long walk among its flowering blossoms. The Japanese are an island people, proud and pious with a rich culture of arts and letters. Your civilization stretches back thousands of years, years of bloody warfare, expansion and isolation, great wealth and great poverty. In addition to their prowess on the field of battle, your people are also immensely industrious, and their technological innovation and mighty factories are the envy of lesser people everywhere.",
+		"startIntroPart2": "Legendary damiyo, will you grab the reins of destiny? Will you bring your family and people the honor and glory they deserve? Will you once again pick up the sword and march to triumph? Will you build a civilization that stands the test of time?",
+		"declaringWar": "Grug no like you, Grug tribe will take your fire, your tools and your women!",
+		"attacked": "Not-Grug only bring ruin to Not-Grug Tribe, Chief Grug make sure...",
+		"defeated": "Grug has nothing to say to you, Not-Grug who extinguished Grug fire...",
+		"introduction": "Hah! Strange-Grug! Do not bring harm to my tribe!",
+		"neutralHello": "Not-Grug what need?",
+		"hateHello": "Evil Grug stay away from Chief Grug tribe!",
+		"tradeRequest": "Grug like to exchange shiny things...",
+		"outerColor": [85,60,43],
+		"innerColor": [0,0,0],
+		"cities": ["Great Cavehome","Lagina","Dafega","Zido","Gibal","Sagal","Nander","Har","Lamuzta","Laka",
+			"Gapi","Piki","Kabara","Tabon","Zandar","Tadik","Um Baga","Tagaz","Bagada","Gugar",
+			"Grug","Ragag","Zuur","Dada","Wadar","Ulaga","Gagor","Harana","Alotro","Wololo","Oggy","Kara",
+			"Polgo","Kagag","Lah","Tagina","Ruma","Radar","Gamuklag","Zada"]
+}
